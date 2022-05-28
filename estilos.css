@@ -1,0 +1,15 @@
+body {
+    background-color:silver;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1   {color: black;}
+p    {color: rgba(41, 74, 88, 0.714);}
+.titulos{
+    font-size: 30px;
+    color: green;
+}
+.lista{
+    font-size: 25px;
+    color: blue;
+    text-align: center;
+}
