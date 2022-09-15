@@ -6,7 +6,7 @@
     </head>
 
     <body>
-        <h1>Lista de ejemplo</h1>
+        <h1>Lista de ejemplo 1</h1>
         <a href="compras.php">Soy un vinculo a la página de compras</a>
         <hr>
         <table border="1">
